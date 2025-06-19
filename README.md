@@ -16,9 +16,11 @@
 - ⚡️ I am pursuing computer science and engineering;
 - 📫 How to reach me: mrajdeep651@gmail.com;
 
+<br>
+<br>
+
 **Languages and Tools:** 
 <p>
-  
 <code><img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B400&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C logo" /></code>
 <code><img src="https://img.shields.io/static/v1?message=C++&logo=cplusplus&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C++ logo" /></code>
   <code><img src="https://img.shields.io/static/v1?message=HTML&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HTML logo" /></code>
@@ -40,5 +42,6 @@
   <code><img src="https://img.shields.io/static/v1?message=Redis&logo=redis&label=&color=DC382D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Redis logo" /></code>
   <code><img src="https://img.shields.io/static/v1?message=VSCode&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="VSCode logo" /></code>
 </p>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Raj-deepp&theme=dark&border_radius=5)](https://git.io/streak-stats)
